@@ -21,13 +21,12 @@ This is a dropdown with text!
 <summary>Part 5 - Wheel</summary>
 This is a dropdown with text!
 </details>
-  <summary>Part 5 - Wheel</summary>
+    <details>
+<summary>Part 5 - Wheel</summary>
 This is a dropdown with text!
 </details>
-  <summary>Part 5 - Wheel</summary>
-This is a dropdown with text!
-</details>
-  <summary>Part 5 - Wheel</summary>
+    <details>
+<summary>Part 5 - Wheel</summary>
 This is a dropdown with text!
 </details>
 </details>
