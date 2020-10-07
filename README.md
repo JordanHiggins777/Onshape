@@ -22,11 +22,15 @@ This is a dropdown with text!
 This is a dropdown with text!
 </details>
     <details>
-<summary>Part 5 - Wheel</summary>
+<summary>Parts 6-9 Axle, Collar, Bearings</summary>
 This is a dropdown with text!
 </details>
     <details>
-<summary>Part 5 - Wheel</summary>
+<summary>Sub-Assembly</summary>
+This is a dropdown with text!
+</details>
+   <details>
+<summary>Final Caster Assembly</summary>
 This is a dropdown with text!
 </details>
 </details>
