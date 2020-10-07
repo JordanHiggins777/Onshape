@@ -2,23 +2,32 @@
 <details>
 <summary>CASTER</summary>
 <details>
-<summary>Plate 1</summary>
+<summary>Part 1 - Base</summary>
 This is a dropdown with text
 </details>
   <details>
-<summary>Example</summary>
+<summary>Part 2 - Mount</summary>
 This is a dropdown with text!
 </details>
   <details>
-<summary>Example</summary>
+<summary>Part 3 - Fork</summary>
 This is a dropdown with text!
 </details>
   <details>
-<summary>Example</summary>
+<summary>Part 4 - Tire</summary>
 This is a dropdown with text!
 </details>
   <details>
-<summary>Example</summary>
+<summary>Part 5 - Wheel</summary>
+This is a dropdown with text!
+</details>
+  <summary>Part 5 - Wheel</summary>
+This is a dropdown with text!
+</details>
+  <summary>Part 5 - Wheel</summary>
+This is a dropdown with text!
+</details>
+  <summary>Part 5 - Wheel</summary>
 This is a dropdown with text!
 </details>
 </details>
