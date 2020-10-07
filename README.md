@@ -5,7 +5,7 @@
 <summary>Part 1 - Base</summary>
 This is a dropdown with text
   <p align="center">
-  <img width="300" src="Onshape/Caster.jpg">
+  <img width="300" src="Onshape/Base.jpg">
 </p>
 </details>
   <details>
