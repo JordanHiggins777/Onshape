@@ -1,2 +1,8 @@
 # Onshape
-These are where all the Onshape things are
+<details>
+<summary>CASTER</summary>
+<details>
+<summary>Plate 1</summary>
+This is a dropdown with text
+</details>
+</details>
