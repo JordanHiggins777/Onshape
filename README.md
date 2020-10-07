@@ -4,6 +4,9 @@
 <details>
 <summary>Part 1 - Base</summary>
 This is a dropdown with text
+  <p align="center">
+  <img width="300" src="Caster.jpg">
+</p>
 </details>
   <details>
 <summary>Part 2 - Mount</summary>
