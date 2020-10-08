@@ -35,8 +35,11 @@ This is a dropdown with text!
 </details>
     <details>
 <summary>Parts 6-9 Axle, Collar, Bearings</summary>
-          <p align="center">
+          <p align="right">
   <img width="300" src="https://github.com/JordanHiggins777/Onshape/blob/main/Axle.jpg">
+</p>         
+      <p align="left">
+  <img width="300" src="https://github.com/JordanHiggins777/Onshape/blob/main/Bearing.jpg">
 </p>
 </details>
     <details>
