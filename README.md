@@ -10,11 +10,16 @@ This is a dropdown with text
 </details>
   <details>
 <summary>Part 2 - Mount</summary>
-This is a dropdown with text!
+      <p align="center">
+  <img width="300" src="https://github.com/JordanHiggins777/Onshape/blob/main/Mount.jpg">
+</p>
 </details>
   <details>
 <summary>Part 3 - Fork</summary>
 This is a dropdown with text!
+          <p align="center">
+  <img width="300" src="https://github.com/JordanHiggins777/Onshape/blob/main/Fork.jpg">
+</p>
 </details>
   <details>
 <summary>Part 4 - Tire</summary>
