@@ -3,7 +3,7 @@
 <summary>CASTER</summary>
 <details>
 <summary>Part 1 - Base</summary>
-This is a dropdown with text
+
   <p align="center">
   <img width="300" src="https://github.com/JordanHiggins777/Onshape/blob/main/Base.jpg">
 </p>
@@ -16,7 +16,7 @@ This is a dropdown with text
 </details>
   <details>
 <summary>Part 3 - Fork</summary>
-This is a dropdown with text!
+
           <p align="center">
   <img width="300" src="https://github.com/JordanHiggins777/Onshape/blob/main/Fork.jpg">
 </p>
@@ -61,6 +61,8 @@ This is a dropdown with text!
 </details>
    <details>
 <summary>Dorothy's Dowel Pins</summary>
-This is a dropdown with text!
+          <p align="center">
+  <img width="300" src="https://github.com/JordanHiggins777/Onshape/blob/main/Frame.jpg">
+</p>
 </details>
 
