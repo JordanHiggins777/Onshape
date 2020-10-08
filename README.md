@@ -23,23 +23,33 @@ This is a dropdown with text!
 </details>
   <details>
 <summary>Part 4 - Tire</summary>
-This is a dropdown with text!
+          <p align="center">
+  <img width="300" src="https://github.com/JordanHiggins777/Onshape/blob/main/Wheel.jpg">
+</p>
 </details>
   <details>
 <summary>Part 5 - Wheel</summary>
-This is a dropdown with text!
+          <p align="center">
+  <img width="300" src="https://github.com/JordanHiggins777/Onshape/blob/main/Wheel2.jpg">
+</p>
 </details>
     <details>
 <summary>Parts 6-9 Axle, Collar, Bearings</summary>
-This is a dropdown with text!
+          <p align="center">
+  <img width="300" src="https://github.com/JordanHiggins777/Onshape/blob/main/Axle.jpg">
+</p>
 </details>
     <details>
 <summary>Sub-Assembly</summary>
-This is a dropdown with text!
+          <p align="center">
+  <img width="300" src="https://github.com/JordanHiggins777/Onshape/blob/main/Sub_Assem.jpg">
+</p>
 </details>
    <details>
 <summary>Final Caster Assembly</summary>
-This is a dropdown with text!
+          <p align="center">
+  <img width="300" src="https://github.com/JordanHiggins777/Onshape/blob/main/Final_Assem.jpg">
+</p>
 </details>
 </details>
    <details>
