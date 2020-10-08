@@ -39,7 +39,7 @@ This is a dropdown with text!
   <img width="300" src="https://github.com/JordanHiggins777/Onshape/blob/main/Axle.jpg">
 </p>         
       <p align="left">
-  <img width="300" src="https://github.com/JordanHiggins777/Onshape/blob/main/Bearing.jpg">
+  <img width="200" src="https://github.com/JordanHiggins777/Onshape/blob/main/Bearing.jpg">
 </p>
 </details>
     <details>
